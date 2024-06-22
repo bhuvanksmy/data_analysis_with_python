@@ -18,24 +18,17 @@ REQUIREMENT:
 
 The dataset used for this project was obtained from Kaggle named “Adidas Sales Dataset” and was converted from an XLSX file to a CSV file for easier handling. The analytical aspect of the project was conducted within the Google Colaboratory Python environment, while Microsoft Power BI was leveraged to create interactive dashboards. The data set was collated on a spreadsheet (Microsoft excel) with column headers which includes;
 
+Column Information:
+
 Retailer ID: Unique ID of each retailer
-
 Invoice Date: Date on which an invoice is issued.
-
 Region: West, Northeast, Southeast, South, Mid-west
-
 Product: Men’s Street Footwear, Men’s Athletic Footwear, Women’s Street Footwear, Women’s Athletic Footwear, Men’s Apparel, Women’s Apparel
-
 Price per unit: Cost of a single unit or item of a particular product.
-
 Units sold: Number of individual items or units of a product that have been sold within a given period of time.
-
 Total sales: Overall revenue generated from the sale of goods or services over a specific period of time.
-
 Operating profit: Financial measure that represents the profitability of a company’s core operations or business activities.
-
 Operating margin: Financial ratio that measures the profitability of a company’s core operations.
-
 Sales method: In-store, Outlet, Online
 
 EXPLORATORY DATA ANALYSIS (EDA)
@@ -44,11 +37,11 @@ Exploratory Data Analysis (EDA) is an essential step in understanding and prepar
 
 In our analysis of Adidas sales data, we conducted EDA to:
 
-Understand the dataset’s structure, dimensions, and basic information.
-Identify duplicate values that might skew our analysis.
-Visualize the sales trends across years and months.
-Examine the distribution of sales on a monthly basis and a lot more.
-This process provides a strong foundation for making data-driven decisions and deriving meaningful insights from the dataset.
+1) Understand the dataset’s structure, dimensions, and basic information.
+2) Identify duplicate values that might skew our analysis.
+3) Visualize the sales trends across years and months.
+4) Examine the distribution of sales on a monthly basis and a lot more.
+5) This process provides a strong foundation for making data-driven decisions and deriving meaningful insights from the dataset.
 
 
 
