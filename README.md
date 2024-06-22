@@ -54,8 +54,9 @@ To ensure data accuracy and reliability, the Adidas sales data was subjected to 
 ii. Data Modeling:
 
 After cleaning the data, it was essential to create an effective data model to facilitate meaningful analysis. The Adidas sales data was organized into relevant tables, including retailer and calendar table. Relationships were established between these tables to establish a cohesive structure.
-
-![Data Modeling](https://github.com/bhuvanksmy/data_analysis_with_python/blob/main/images/Data_modeling_Adidas_Sales_Analysis.JPG)
-#### Data model in Power Bi showing the connection to multiple tables.
+<p align="center">
+<img src = "https://github.com/bhuvanksmy/data_analysis_with_python/blob/main/images/Data_modeling_Adidas_Sales_Analysis.JPG"/>
+Data model in Power Bi showing the connection to multiple tables.
+</p>
 
 
