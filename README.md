@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # data_analysis_with_python
 Data analysis with Python
 
@@ -47,6 +47,13 @@ VISUALIZATION
 
 A sales dashboard is one of the most crucial elements that keeps the sales management team on track to success. It helps the team to monitor performance, identify trends, and make informed decision
 
+i. Data Cleaning with Power Query:
 
+To ensure data accuracy and reliability, the Adidas sales data was subjected to a thorough cleaning process using Power Query. This involved removing duplicate entries, standardizing formats, and resolving any inconsistencies in the dataset. The cleaned data formed the foundation for subsequent analysis and visualization.
 
->>>>>>> e7303ca9cce8ed45c6305b9586451163bc4e7e15
+ii. Data Modeling:
+
+After cleaning the data, it was essential to create an effective data model to facilitate meaningful analysis. The Adidas sales data was organized into relevant tables, including retailer and calendar table. Relationships were established between these tables to establish a cohesive structure.
+
+![Data Modeling](https://github.com/bhuvanksmy/data_analysis_with_python/blob/main/images/Data_modeling_Adidas_Sales_Analysis.JPG)
+
