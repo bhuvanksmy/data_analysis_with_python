@@ -43,7 +43,9 @@ In our analysis of Adidas sales data, we conducted EDA to:
 4) Examine the distribution of sales on a monthly basis and a lot more.
 5) This process provides a strong foundation for making data-driven decisions and deriving meaningful insights from the dataset.
 
+VISUALIZATION
 
+A sales dashboard is one of the most crucial elements that keeps the sales management team on track to success. It helps the team to monitor performance, identify trends, and make informed decision
 
 
 
